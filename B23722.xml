@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Great victory obtained by the English against the Hollanders, on Friday the 6th of May the whole manner of the engagement, the persuing of the Dutch fleet towards Holland, and blocking up of their admirals, Van Trump, de Witte and Ruyter, in the Texel, by General Dean, General Monk, and Vice-Admiral Penn : with the taking of 60 small ships and 6 merchant-men very richly laden, that were coming from France, about by Scotland.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23722</idno><idno type="EEBO-CITATION">18665049</idno>
+  <idno type="VID">205321</idno>
+  <idno type="EEBO-PROQUEST">2240854343</idno>
+  
+            <idno type="STC">Wing G1780</idno>
+            <idno type="OCLC">18665049</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23722)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205321)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1655:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Great victory obtained by the English against the Hollanders, on Friday the 6th of May the whole manner of the engagement, the persuing of the Dutch fleet towards Holland, and blocking up of their admirals, Van Trump, de Witte and Ruyter, in the Texel, by General Dean, General Monk, and Vice-Admiral Penn : with the taking of 60 small ships and 6 merchant-men very richly laden, that were coming from France, about by Scotland.</title>
+               </titleStmt>
+               <extent>8 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T.p. ill. with woodcut depicting the sea battle.</note>
+                  <note>Imperfect: print show-through and loss of print. Best copy available for photographing.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Naval battles.</term>
+               <term type="geographic_name">Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+               <term type="geographic_name">Netherlands --  History --  1648-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205321:1"/>
+            <head>A GREAT VICTORY OBTAINED By the English against the Hollanders, on Friday the 6th of May: The whole manner of the Engagement, the persuing of the Dutch Fleet towards <hi>Holland,</hi> and the blocking up of their Admirals, <hi>Van Trump, de Witte</hi> and <hi>Ruttyer,</hi> in the <hi>Texel,</hi> by General <hi>Dean,</hi> General <hi>Monk,</hi> and Vice-Admiral <hi>PENN.</hi>
+            </head>
+            <p>With the taking of 60 small Ships, and 6 Merchant-men very richly la<g ref="char:EOLhyphen"/>den, that were coming from <hi>France,</hi> about by <hi>Scotland.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut of a sea battle between two ships</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Robert Wood.</hi> 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:205321:2"/>
+            <pb facs="tcp:205321:2"/>
+            <head>An Exact RELATION OF THE Fight between the English and the Hollanders, on Friday the 6 of May, with the taking of 50 or 60 small Vessels, and 6 Merchantmen, and the blocking up the Dutch Fleet in the <hi>TEXEL.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg>N the fourth of May, there passed by <hi>Rye</hi> to the Eastward, some fourteen or fifteen sail of Ships, which was suppo<g ref="char:EOLhyphen"/>sed to be part of our Fleet which were left behinde when the Generals came from <hi>Portsmouth;</hi> And the winde being very fair for them, it is conceived they are by this time joy<g ref="char:EOLhyphen"/>ned with the rest of the Fleet.</p>
+            <p>Sir <hi>Richard Dean,</hi> Sir <hi>George Monk,</hi> and Vice-Ad<g ref="char:EOLhyphen"/>miral <hi>Pen,</hi> riding in the Downes, on the third in<g ref="char:EOLhyphen"/>stant
+<pb n="4" facs="tcp:205321:3"/>were advertiz'd, that <hi>Van Trump, de Witte, de Rutyer,</hi> and <hi>Evariz</hi> were united together, and all ready to set sail from the <hi>Texel;</hi> they immedi<g ref="char:EOLhyphen"/>ly called a Council of Warre, where it was unani<g ref="char:EOLhyphen"/>mously agreed upon, that they should advance thi<g ref="char:EOLhyphen"/>ther with the whole body of their Fleet, and fight there; This was with all expedition put in execu<g ref="char:EOLhyphen"/>tion, and our whole Fleet weighed Anchor, and in the strength of God went out against them.</p>
+            <p>But <hi>Van Trump</hi> and the rest of the Dutch Admi<g ref="char:EOLhyphen"/>rals had received Orders from their high and migh<g ref="char:EOLhyphen"/>ty Masters, that they should put out to Sea with all the strength they could make to meet their Mer<g ref="char:EOLhyphen"/>chant men, who were about 300. in number, that were coming from Nantz round about by Scotland; this is conceived to be the richest Fleet that ever be<g ref="char:EOLhyphen"/>longed to Holland, and if our Generals light on it, as there is great probability they will, the common people will without doubt, stone both their Admi<g ref="char:EOLhyphen"/>rals and States-men, and force them to seek for a peace with England upon any terms.</p>
+            <p>On the 6. instant, our Fleet consisting of 100. and odd of gallant ships, being under sail, discovered the Dutch fleet some Leagues distant, which (as they supposed) seemed not to be above seventy in num<g ref="char:EOLhyphen"/>ber; presently our ships began to make all the pre<g ref="char:EOLhyphen"/>paration that might be to sight them, expecting that the Hollanders would struggle for the wind, which might prove advantatious to that party which gain'd it, therefore they steer'd their course accor<g ref="char:EOLhyphen"/>dingly; but contrary to their expectation, and clean contrary to their imagination, they tacked a<g ref="char:EOLhyphen"/>bout
+<pb n="5" facs="tcp:205321:3"/>and endeavoured to decline any engagement, whereupon our Generals commanded out their swiftest Frigots to pursue them, and they with the rest of the fleet orderly followed in a fighting po<g ref="char:EOLhyphen"/>sture: And it is informed by a Messenger belonging to the Councel of State which came from our fleet, that he saw some of our ships which were in the Van, fire upon the Rear of the Dutch Fleet, and that the rest of them made all the hast they could to get into some Port where they may be out of Gun<g ref="char:EOLhyphen"/>shot. On the seventh instant, about five in the after<g ref="char:EOLhyphen"/>noon, came in another Messenger from the Navy, and acquainted the Councel of State that the Dutch fleet had fled before ours, and escaped into the <hi>Tex<g ref="char:EOLhyphen"/>el,</hi> where our Fleet had Block't them in, and that we had taken about 50. or 60. of their small ships or Dogger-boats, which will be a great losse to them, and of great commerce to us.</p>
+            <p>The Dutch fleet being thus block't up, if time<g ref="char:EOLhyphen"/>ly notice be not given to their Merchant men of our fleets lying there, they will probably fall in amongst them, who will sell their commodities at better rates for them, and where they will be better wel<g ref="char:EOLhyphen"/>come; and then the vast charge, and great expence of our Navies for these last years will be repaid by them.</p>
+            <p>Letters were likewise brought to Whitehal by several Mer<g ref="char:EOLhyphen"/>chants, owners of a private man of war in the Western coasts, whose Capt. informs them, that of the 300 sail of Dutch mer<g ref="char:EOLhyphen"/>chants sailed round by <hi>Scotland,</hi> six of them being not very good sails, and very heavy laden, were left some Leagues be<g ref="char:EOLhyphen"/>hind the fleet, which he hath happily gathered up, &amp; brought into several ports, one of which is valued at 20000. l.<hi>sterling.</hi>
+            </p>
+            <pb n="6" facs="tcp:205321:4"/>
+            <p>From Scotland it is certified, that as soon as they had received Intelli<g ref="char:EOLhyphen"/>gence of the dissolving the Parliament, there vvas immediately called a Coun<g ref="char:EOLhyphen"/>cel of Warre, vvho after they had a vvhile debated it, unanimously accor<g ref="char:EOLhyphen"/>ded to vvhat vvas here acted, as you may perceive by this ensuing Letter.</p>
+            <div type="letter">
+               <head>To his EXCELLENCY, the Lord General CROMWEL, and his Coun<g ref="char:EOLhyphen"/>cil of OFFICERS, these humbly present.</head>
+               <opener>
+                  <salute>May it please Your Excellency,</salute>
+               </opener>
+               <p>HHving perused your Declaration, enti<g ref="char:EOLhyphen"/>tuled, A Declaration of the Lord Ge<g ref="char:EOLhyphen"/>neral, and his Councel of Officers, shewing the grounds and reasons or the dissolution of the late Parliament; and being satisfied, that the same (through Gods mercy) is tending to the weal of the Republike, and doubtless to the great satisfaction of all godly person, and
+<pb n="7" facs="tcp:205321:4"/>well-willers to the Nation: We thereupon thought it our duties to make known unto you, that we through the Lords assistance, shall stand or fall with you, in your further proceedings of what you have begun, against all opposers whatsoever (if any shall be) no<g ref="char:EOLhyphen"/>thing doubting, but that the Lord, who made you happy Instruments in the purging, will also own you in dissolving that Parliament, for the just Reasons and Grounds in your Declaration expressed: We pray the Lord to be your All in All. Thus with our Servi<g ref="char:EOLhyphen"/>ces humbly presented, we remain,</p>
+               <closer>
+                  <signed>Signed by the Judge Advocate, Controller, and other general Offi<g ref="char:EOLhyphen"/>cers, with the consent of the rest of the Offi<g ref="char:EOLhyphen"/>cers of the Train, resi<g ref="char:EOLhyphen"/>dent in Edenburgh. Your Lordships and Honors hum<g ref="char:EOLhyphen"/>ble Servants, &amp;c.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="8" facs="tcp:205321:5"/>
+               <head>The Copy of a Letter from our Navy, dated the <hi>7.</hi> of May, <hi>1653.</hi>
+               </head>
+               <p>
+                  <hi>SIR,</hi> Joyful of this opportunity, I make bold to present my service to you: It pleased God that on the 6. instant as we were under saile towards the <hi>Texel,</hi> accompanied with the rest of our Navy, in the evening we discovered the Hollanders fleet, being as we supposed about 70 or 80 sail, where after we had spent some time in prayer, recommending our selves to the Almighty, and desiring his protection, weo made preparation to sight the enemy; but contrary to our imagination, he tack'd about and indeavour<g ref="char:EOLhyphen"/>ed by all means possible to decline an ingagement; hereupon command was given that we should hoist all our sails, and pursue the cowardly enemy, which we did, &amp; had not the darkness of the night befrien<g ref="char:EOLhyphen"/>ded them, they could not have escaped us with so lit<g ref="char:EOLhyphen"/>tle loss; for our Van came within that of their Rear, and I am confident did some execution upon them, and pursued them so long as they could discern the least glimps of them. In the morning we discovered them again, and followed them to the very mouth of the <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>exel,</hi> where we now remain, lying there like a Wood in the Sea, our ships consisting of above 100. sail of stout ships, well man'd and desperately resol<g ref="char:EOLhyphen"/>ved. Since our lying here, we have taken about 60. Hives or Dogger boats, and make no doubt but we shal meet with all their Merchantmen that are com<g ref="char:EOLhyphen"/>ing to <hi>Amsterdam;</hi> for we have so surrounded the <hi>Tex<g ref="char:EOLhyphen"/>el</hi> that none can pass us, nor any out come to relieve them, except they first engage with our fleer: Sir, this is all for the present you can expect.</p>
+               <closer>
+                  <signed>T.H.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205321:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
